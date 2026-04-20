@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%2B+Three.js+UI+Architect+%F0%9F%8E%A8;Freelancer+%7C+Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Postify+%E2%80%94+one+commit+at+a+time+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+🚀;Systems+%7C+Plugins+%7C+CLI+⚙️;Build.+Break.+Improve.+Repeat.+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,25 +20,46 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
-```javascript
-const nirmal = {
-  role:       "Junior Web Developer & Freelancer",
-  location:   "India 🇮🇳",
-  currentProject: "Postify — a full-featured social media web app",
-  stack:      ["React", "Three.js", "Node.js", "Appwrite", "Firebase"],
-  learning:   ["Backend Architecture", "Auth Flows", "WebGL & 3D Web"],
-  funFact:    "I debug with console.log and I'm not ashamed 🫡"
-};
-```
+I’m not chasing “projects” anymore — I’m building **systems that grow on their own**.
 
-- 🚀 &nbsp; Building **Postify** — think Twitter meets buttery-smooth UI
-- 🎨 &nbsp; Obsessed with pixel-perfect interfaces and immersive 3D web experiences
-- 🛠️ &nbsp; Bridging the gap between **design and engineering** one component at a time
-- 📬 &nbsp; Always open to collabs, freelance gigs, and interesting side projects
-- ⚡ &nbsp; I believe great UX is invisible — you just *feel* it
+Currently working on **MiMi v3** — an evolving automated system where features don’t get hardcoded.  
+They **plug in, register, and run**.
 
+Less repetition. More automation. More structure.
+
+---
+
+### 🧩 What I’m Into
+
+- ⚙️ Designing **plugin-driven architectures**
+- 🧠 Building **automated workflows & job systems**
+- 🛠️ Creating tools that scale quietly over time
+- 🎨 Mixing **creative frontend experiments** with **solid backend systems**
+
+---
+
+### ⚡ How I Think
+
+> If I have to do it twice, it’s already a system problem.  
+
+> Good systems don’t just work — they **adapt**.
+
+---
+
+### 🚧 Current Direction
+
+- Turning MiMi into a **self-extensible ecosystem**  
+- Exploring **developer tooling & CLI systems**  
+- Focusing on **architecture that survives scale**
+
+---
+
+### 🧠 Fun Reality
+
+Yes, I still use `console.log` —  
+just… *strategically* now.
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" />
@@ -90,45 +111,31 @@ const nirmal = {
 
 ## 🔥 Featured Projects
 
-<div align="center">
+### ⚙️ MiMi v3
+> An evolving automated system designed to grow through plugins, workflows, and self-registering capabilities.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Core Idea:** System over features · Automation over repetition  
 
-### 📱 Postify
-> A next-gen social media web app built for speed and self-expression.
-
-**Stack:** React · Appwrite · Node.js · Vite
-
-- 🔐 Auth with Appwrite (OAuth + Email)
-- 📸 Post, like, follow — full social loop
-- ⚡ Optimistic UI for snappy interactions
-- 🎨 Sleek, responsive design from scratch
+- 🧩 Plugin-driven architecture (auto-registering modules)
+- 🔄 Job scheduler & event-based workflows
+- ⚙️ Designed for extensibility — not hardcoded growth
+- 🧠 Built as a foundation for future tooling & automation
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinghNirmal01)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🌐 [REPLACE: Project 2 Name]
-> [REPLACE: Short description — what it does and why it matters]
+### 🌐 Codevux
+> A calm, thoughtful digital studio focused on building simple, useful, and human-centered web experiences.
 
-**Stack:** [REPLACE: tech used]
+**Core Idea:** Design · Build · Scale (with clarity)
 
-- ✨ [REPLACE: key feature 1]
-- 🛠️ [REPLACE: key feature 2]
-- 🚀 [REPLACE: key feature 3]
+- 🎯 Clarity-first development — less noise, more intention  
+- 🧠 Blends engineering + design into real-world products  
+- 🌱 Exploring community-driven knowledge & developer insights  
+- ✨ Software that feels simple, useful, and human  
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinghNirmal01/[REPLACE:repo-name])
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]([REPLACE:live-url])
-
-</td>
-</tr>
-</table>
-
-</div>
-
+[![Website](https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codevux.in)
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" />

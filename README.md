@@ -136,21 +136,12 @@ const nirmal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SinghNirmal01&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" width="49%" alt="Nirmal's GitHub Stats"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=SinghNirmal01&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=FFFFFF" width="49%" alt="Nirmal's Streak"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SinghNirmal01&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SinghNirmal01&theme=midnight-purple&hide_border=true" width="49%"/>
 </div>
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghNirmal01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="40%" alt="Top Languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghNirmal01&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="40%"/>
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" />
 
 ## 📈 Contribution Graph
 
@@ -168,7 +159,7 @@ const nirmal = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SinghNirmal01&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://trophy.benkou.dev/?username=SinghNirmal01&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

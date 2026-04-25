@@ -144,7 +144,9 @@ just… *strategically* now.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SinghNirmal01&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=SinghNirmal01&theme=midnight-purple&hide_border=true" width="49%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SinghNirmal01&theme=midnight-purple&hide_border=true" width="49%"/>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghNirmal01&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="40%"/>
